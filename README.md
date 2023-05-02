@@ -12,7 +12,7 @@
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
 - ✉️ You can shoot me an email at [akarabudka@gmail.com](mailto:akarabudka@gmail.com).
 
-#### My CV: [Alexander Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/master/cv.pdf)
+#### My CV: [Alexander Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/CV.pdf)
 
 ## 🛠 My fancy badge area
 
