@@ -76,6 +76,10 @@ always been built from a simple foundation through evolution.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
 
+## 👨‍💻 Alexander's LeetCode stats
+
+[![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sanyakarabudka&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ## 🤝 Connect with me
 
 [![akarabudka@gmail.com](https://img.shields.io/badge/akarabudka@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akarabudka@gmail.com) 
