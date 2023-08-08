@@ -68,13 +68,16 @@ crucial for success.
 I value simplicity in my projects. I honestly believe that all big successful systems have
 always been built from a simple foundation through evolution.
 
-## 🔥 Streak stats
+## 📊 Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akrbdk&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
+
+![Stats Overview](https://raw.githubusercontent.com/akrbdk/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/akrbdk/github-stats-transparent/output/generated/languages.svg)
 
 ## 👨‍💻 Alexander's LeetCode stats
 
