@@ -76,9 +76,6 @@ always been built from a simple foundation through evolution.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
 
-![Stats Overview](https://raw.githubusercontent.com/akrbdk/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/akrbdk/github-stats-transparent/output/generated/languages.svg)
-
 ## 👨‍💻 Alexander's LeetCode stats
 
 [![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sanyakarabudka&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
