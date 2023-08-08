@@ -70,8 +70,9 @@ always been built from a simple foundation through evolution.
 
 ## 📊 Github Stats
 
-![Metrics](https://metrics.lecoq.io/akrbdk?template=classic&base.community=0&base.metadata=0&isocalendar=1&languages=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=12&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&leetcode=false&leetcode.user=sanyakarabudka&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=5&config.timezone=Ukraine%2FKyiv&config.display=columns)
+![Metrics](https://metrics.lecoq.io/akrbdk?template=classic&base.community=0&base.metadata=0&isocalendar=1&languages=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=12&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used%2C%20recently-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&leetcode=false&leetcode.user=sanyakarabudka&leetcode.sections=solved%2Cskills%2Crecent&leetcode.limit.skills=10&leetcode.limit.recent=5&config.timezone=Ukraine%2FKyiv&config.display=columns)
 
+<!--- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akrbdk&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
@@ -81,6 +82,7 @@ always been built from a simple foundation through evolution.
 ## 👨‍💻 Alexander's LeetCode stats
 
 [![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sanyakarabudka&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+--->
 
 ## 🤝 Connect with me
 
