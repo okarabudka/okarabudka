@@ -5,7 +5,7 @@
 
 <br>
 
-- 🇺🇦 I live in Köln, Germany.
+- 🇩🇪 I live in Köln, Germany.
 - 🐍 I'm a PHP developer at Freelance (Self employed).
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
