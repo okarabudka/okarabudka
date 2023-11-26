@@ -5,8 +5,8 @@
 
 <br>
 
-- 🇺🇦 I live in Kyiv, Ukraine.
-- 🐍 I'm a PHP developer at [Kelnik](https://www.kelnik.de/).
+- 🇺🇦 I live in Köln, Germany.
+- 🐍 I'm a PHP developer at Freelance (Self employed).
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
