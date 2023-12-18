@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            630 Commits
+                            638 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="642.5030476736981" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="642.5030476736981" y="0" width="127.51376103245052" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="770.0168087061487" y="0" width="120.78213718999994" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="890.7989458961487" y="0" width="11.0049776176107" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="901.8039235137593" y="0" width="9.126165353027726" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="910.9300888667871" y="0" width="4.996790909701202" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="915.9268797764882" y="0" width="2.1817196020471474" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="918.1085993785354" y="0" width="1.8914006214646024" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="642.5461130929376" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="642.5461130929376" y="0" width="127.49397186528445" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="770.0400849582221" y="0" width="120.76339271972338" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="890.8034776779455" y="0" width="11.003269728674084" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="901.8067474066196" y="0" width="9.124749041483827" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="910.9314964481034" y="0" width="4.996015445705745" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="915.9275118938092" y="0" width="2.181381015736424" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="918.1088929095457" y="0" width="1.8911070904545129" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2252,8 +2252,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.181120747164776 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">111</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.290860573715811 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">112</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2998</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2270,8 +2270,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.506666666666667 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">12</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.715555555555556 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">13</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1575</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2296,7 +2296,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x44</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x45</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x29</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x26</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x23</span></div>
@@ -2320,6 +2320,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Best Time to Buy and Sell Stock II</div>
+                            <div class="date">19 Dec 2023</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Unique Paths</div>
                             <div class="date">18 Dec 2023</div>
                         </div>
@@ -2330,15 +2339,6 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Swap Nodes in Pairs</div>
-                            <div class="date">18 Dec 2023</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Jump Game</div>
                             <div class="date">18 Dec 2023</div>
                         </div>
                     </div>
