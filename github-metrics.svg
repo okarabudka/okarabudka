@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            659 Commits
+                            662 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="642.820918350132" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="642.820918350132" y="0" width="127.36769497610568" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="770.1886133262377" y="0" width="120.64378215824965" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="890.8323954844874" y="0" width="10.992371498335789" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="901.8247669828231" y="0" width="9.115711399102484" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="910.9404783819257" y="0" width="4.991067123212197" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="915.9315455051378" y="0" width="2.1792204586155597" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="918.1107659637535" y="0" width="1.8892340362465945" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="642.9217450408867" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="642.9217450408867" y="0" width="127.32136369050846" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="770.2431087313952" y="0" width="120.59989676385865" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="890.8430054952538" y="0" width="10.988372912168586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="901.8313784074224" y="0" width="9.112395467002647" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="910.9437738744251" y="0" width="4.989251572131024" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="915.9330254465561" y="0" width="2.178427745161286" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="918.1114531917175" y="0" width="1.8885468082826296" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2315,7 +2315,7 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Validate Binary Search Tree</div>
-                            <div class="date">25 Dec 2023</div>
+                            <div class="date">26 Dec 2023</div>
                         </div>
                     </div>
                     <div class="field">
