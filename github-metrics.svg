@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            697 Commits
+                            699 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="643.1009986686124" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="643.1009986686124" y="0" width="127.17373115182508" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="770.2747298204375" y="0" width="120.46005794649032" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="890.7347877669279" y="0" width="10.975631598833564" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="901.7104193657615" y="0" width="9.101829399869164" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="910.8122487656307" y="0" width="4.983466401014618" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="915.7957151666453" y="0" width="2.1759017997187113" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="917.971616966364" y="0" width="2.0283830336360866" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="642.9754154977019" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="642.9754154977019" y="0" width="127.14889698044666" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="770.1243124781486" y="0" width="120.43653480459456" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="890.560847282743" y="0" width="10.973488304667049" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="901.5343355874102" y="0" width="9.100052017157134" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="910.6343876045672" y="0" width="4.982493242033274" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="915.6168808466006" y="0" width="2.20764225839736" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="917.824523104998" y="0" width="2.1754768950020895" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -228,15 +228,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Hack
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Go
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Hack
                     </div>
                 </div>
             </section>
@@ -2277,8 +2277,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.816771211620997 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">118</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.925387916804226 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">119</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3029</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2295,8 +2295,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7268722466960353 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">18</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.933920704845815 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">19</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1589</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2321,10 +2321,10 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x47</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x48</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x30</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x26</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x24</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x25</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x18</span></div>
@@ -2345,6 +2345,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Set Matrix Zeroes</div>
+                            <div class="date">7 Jan 2024</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Subsets</div>
                             <div class="date">5 Jan 2024</div>
                         </div>
@@ -2356,15 +2365,6 @@
                         <div class="infos">
                             <div class="title">Diameter of Binary Tree</div>
                             <div class="date">4 Jan 2024</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Binary Tree Zigzag Level Order Traversal</div>
-                            <div class="date">30 Dec 2023</div>
                         </div>
                     </div>
                 </section>
