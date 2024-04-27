@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a PHP developer with 6+ years of experience.</h3>
+<h3 align="center">I'm a PHP developer with 7+ years of experience.</h3>
 
 <br>
 
