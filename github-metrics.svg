@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            805 Commits
+                            816 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="639.5942782747272" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="639.5942782747272" y="0" width="125.52525406014269" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="765.11953233487" y="0" width="118.8986061892052" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="884.0181385240751" y="0" width="10.833361044265795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="894.851499568341" y="0" width="8.983847823625457" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="903.8353473919664" y="0" width="8.65158602645012" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="912.4869334184166" y="0" width="4.918868703637681" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.4058021220543" y="0" width="2.5941978779459003" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="639.3649570078201" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="639.3649570078201" y="0" width="125.4788804992016" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="764.8438375070216" y="0" width="118.85468075124284" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="883.6985182582645" y="0" width="10.82935880955737" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="894.5278770678218" y="0" width="8.981303082771781" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="903.5091801505936" y="0" width="8.980528865877442" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="912.489709016471" y="0" width="4.917051495942725" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="917.4067605124138" y="0" width="2.5932394875862315" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -216,15 +216,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Go
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2325,8 +2325,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Merge k Sorted Lists</div>
-                            <div class="date">10 Jun 2024</div>
+                            <div class="title">Find the Index of the First Occurrence in a String</div>
+                            <div class="date">11 Jun 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2334,8 +2334,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Swap Nodes in Pairs</div>
-                            <div class="date">10 Jun 2024</div>
+                            <div class="title">Remove Element</div>
+                            <div class="date">11 Jun 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2343,8 +2343,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Generate Parentheses</div>
-                            <div class="date">9 Jun 2024</div>
+                            <div class="title">Remove Duplicates from Sorted Array</div>
+                            <div class="date">11 Jun 2024</div>
                         </div>
                     </div>
                 </section>
