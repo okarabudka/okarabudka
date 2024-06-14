@@ -5,15 +5,15 @@
 
 <br>
 
-- 🇩🇪 I live in Köln, Deutschland.
+- 🇩🇪 I live in Dortmund, Deutschland.
 - 🐍 I'm a PHP developer at Freelance (Self employed).
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
-- ✉️ You can shoot me an email at [akarabudka@gmail.com](mailto:akarabudka@gmail.com).
+- ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
 - 📖📲 CLICK to schedule a call [cal.com](https://cal.com/alexander-karabudka).
 
-#### My CV: [Alexander Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/CV.pdf)
+#### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/CV.pdf)
 
 ## 🛠 My fancy badge area
 
