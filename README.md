@@ -6,7 +6,7 @@
 <br>
 
 - 🇩🇪 I live in Dortmund, Deutschland.
-- 🐍 I'm a PHP developer at Freelance (Self employed).
+- 🐍 I'm a Backend Developer at Freelance (Self employed).
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
