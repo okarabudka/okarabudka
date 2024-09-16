@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1310 Commits
+                            1311 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2289,8 +2289,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.98541919805589 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">240</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.085358444714462 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">241</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3292</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2298,8 +2298,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="78.0677966101695 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">196</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="78.46610169491525 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">197</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/826</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2339,9 +2339,9 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x38</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x33</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x33</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x29</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x26</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x26</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x30</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x27</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x27</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x26</span></div>
                     </div>
                 </section>
@@ -2352,6 +2352,15 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Second Minimum Node In a Binary Tree</div>
+                            <div class="date">16 Sept 2024</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -2368,15 +2377,6 @@
                         <div class="infos">
                             <div class="title">Binary Search</div>
                             <div class="date">15 Sept 2024</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Robot Return to Origin</div>
-                            <div class="date">14 Sept 2024</div>
                         </div>
                     </div>
                 </section>
