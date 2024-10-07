@@ -13,7 +13,7 @@
 - ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
 - 📖📲 CLICK to schedule a call [cal.com](https://cal.com/alexander-karabudka).
 
-#### My CV: [Alex Karabudka.pdf](https://github.com/akrbdk/akrbdk/blob/main/Alex_Karabudka_Backend_Developer_CV.pdf)
+#### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Alex_Karabudka_Backend_Developer_CV.pdf)
 
 ## 🛠 My fancy badge area
 
