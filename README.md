@@ -13,7 +13,7 @@
 - ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
 - 📖📲 CLICK to schedule a call [cal.com](https://cal.com/alexander-karabudka).
 
-#### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/AlexKarabudka_BackendDeveloper_CV.pdf)
+#### My CV: [Alex Karabudka.pdf](https://github.com/akrbdk/akrbdk/blob/main/Alex_Karabudka_Backend_Developer_CV.pdf)
 
 ## 🛠 My fancy badge area
 
@@ -51,7 +51,7 @@
 
 ## ✨ About Me
 
-I have a strong background in PHP as well as Go and MySQL and I specialize in web projects.
+I have a strong background in PHP as well as MySQL and I sometimes write in Go. I specialize in web projects.
 I mostly worked at mid-sized companies because I like creating valuable products for users
 and solving real problems, rather than dealing with big-corporate politics.
 
