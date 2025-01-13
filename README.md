@@ -4,6 +4,7 @@
 <h3 align="center">I'm a Backend Sowtware Engineer.</h3>
 
 <br>
+## ✨ About Me
 
 - 🇩🇪 I live in Dortmund, Deutschland.
 - 🐍 I'm a Backend Developer at Freelance (Self employed).
@@ -51,14 +52,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## ✨ About Me
-
-I have a strong background in PHP as well as MySQL and I sometimes write in Go and JavaScript. I specialize in web projects.
-
-I’m always working towards updating my skills and keeping up with the industry.
-
-I honestly believe that all big successful systems have always been built from a simple foundation through evolution.
 
 ## 🤝 Connect with me
 
