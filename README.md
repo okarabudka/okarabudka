@@ -4,17 +4,16 @@
 <h3 align="center">I'm a Backend Sowtware Engineer.</h3>
 
 <br>
-## ✨ About Me
 
 - 🇩🇪 I live in Dortmund, Deutschland.
-- 🐍 I'm a Backend Developer at Freelance (Self employed).
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go and JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
+- 🐍 My [Leetcode](https://leetcode.com/sanyakarabudka/).
 - ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
 - 📖📲 CLICK to schedule a call [cal.com](https://cal.com/alexander-karabudka).
 
-#### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Alex_Karabudka_Backend_Developer_CV.pdf)
+### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Alex_Karabudka_Backend_Developer_CV.pdf)
 
 ## 🛠 My fancy badge area
 
@@ -53,12 +52,6 @@
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🤝 Connect with me
-
-[![akarabudka@gmail.com](https://img.shields.io/badge/akarabudka@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akarabudka@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sanyakarabudka/)
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarabudka/) 
-
 ## 📊 Github Stats
 
 <!--- 
@@ -70,3 +63,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
+
+## 🤝 Connect with me
+
+[![akarabudka@gmail.com](https://img.shields.io/badge/akarabudka@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akarabudka@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sanyakarabudka/)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarabudka/) 
