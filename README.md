@@ -9,7 +9,7 @@
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go and JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
-- 🐍 My [Leetcode](https://leetcode.com/sanyakarabudka/).
+- 🐍 My [Leetcode](https://leetcode.com/sanyakarabudka/) and [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka).
 - ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
 - 📖📲 CLICK to schedule a call [cal.com](https://cal.com/alexander-karabudka).
 
