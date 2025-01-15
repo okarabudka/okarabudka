@@ -5,7 +5,7 @@
 
 <br>
 
-- 🇩🇪 I live in Dortmund, Deutschland.
+- 🇩🇪 I live in Dortmund, Germany.
 - 🤖 Most of the time I'm writing on PHP. Sometimes Go and JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
