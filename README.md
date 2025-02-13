@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a Backend Sowtware Engineer.</h3>
+<h3 align="center">I'm a Backend Software Developer | PHP, MySQL.</h3>
 
 <br>
 
 - 🇩🇪 I live in Dortmund, Germany.
-- 🤖 Most of the time I'm writing on PHP. Sometimes Go and JavaScript.
-- 🚀 I love pet-projects. They help me grow professionally all my life.
+- 🤖 Experienced backend developer with a strong background in PHP and MySQL, along with experience in Go and JavaScript.
+- 🚀 I love pet-projects. They help me grow professionally.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
 - 🐍 My [Leetcode](https://leetcode.com/sanyakarabudka/) and [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka).
 - ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
