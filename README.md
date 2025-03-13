@@ -5,7 +5,7 @@
 
 <br>
 
-- 🇩🇪 I live in Dortmund, Germany.
+- 🇩🇪 I live in Dortmund, Germany (Currently looking for new opportunities in Germany).
 - 🤖 Experienced backend developer with a strong background in PHP and MySQL, along with experience in Go and JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
