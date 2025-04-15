@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Alex</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Oleksandr (Alex)</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Senior PHP Backend Developer | PHP, MySQL, API Integrations</h3>
 
@@ -16,7 +16,7 @@
 <!--- 
 ### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Alex_Karabudka_Backend_Developer_CV.pdf)
 --->
-### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Senior_Backend_Developer_Alex_Karabudka_CV.pdf)
+### My CV: [Oleksandr (Alex).pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Senior_Backend_Developer_Oleksandr_Karabudka_CV.pdf)
 
 ## 🛠 My fancy badge area
 
