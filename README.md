@@ -6,7 +6,7 @@
 <br>
 
 - 🇩🇪 I live in Karlsruhe, Germany.
-- 🤖 Experienced backend developer with a strong background in PHP and MySQL, along with experience in Go and JavaScript.
+- 🤖 Backend developer with a strong background in PHP and MySQL, along with experience in Go and JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally.
 - ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
 - 🐍 My [Leetcode](https://leetcode.com/sanyakarabudka/) and [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka).
