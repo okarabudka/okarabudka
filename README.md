@@ -15,9 +15,9 @@
 
 <!--- 
 ### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Alex_Karabudka_Backend_Developer_CV.pdf)
---->
-### My CV: [Oleksandr Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Senior_Backend_Developer_Oleksandr_Karabudka_CV.pdf)
 
+### My CV: [Oleksandr Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Senior_Backend_Developer_Oleksandr_Karabudka_CV.pdf)
+--->
 ## 🛠 My fancy badge area
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
