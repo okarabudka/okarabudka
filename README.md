@@ -1,22 +1,46 @@
+<h1 align="center">
+Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Oleksandr (Alex)</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Oleksandr (Alex)</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Senior PHP Backend Developer | PHP, MySQL, API Integrations, AI tools</h3>
+<h3 align="center">
+Senior Backend Developer (PHP / Symfony / Shopware) | E-commerce • AI-assisted Development
+</h3>
 
-<br>
+---
 
-- 🇩🇪 I live in Karlsruhe, Germany.
-- 🤖 Backend developer with a strong background in PHP and MySQL, along with experience in Go and JavaScript.
-- 🚀 I love pet-projects. They help me grow professionally.
-- ✏️ You can visit my profile: [LinkedIn](https://www.linkedin.com/in/akarabudka/).
-- 🐍 My [Leetcode](https://leetcode.com/sanyakarabudka/) and [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka).
-- ✉️ You can shoot me an email at [alexandedev@gmail.com](mailto:alexandedev@gmail.com).
-- 📖📲 CLICK to schedule a call [cal.com](https://cal.com/alexander-karabudka).
+## 🚀 About Me
 
-<!--- 
-### My CV: [Alex Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Alex_Karabudka_Backend_Developer_CV.pdf)
---->
-### My CV: [Oleksandr Karabudka.pdf](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Developer_CV.pdf)
+- 🇩🇪 Based in Germany (Karlsruhe)
+- 💼 Backend Developer with **7+ years of experience** in building scalable web applications
+- 🛒 Strong focus on **e-commerce platforms (Shopware 6, custom solutions)**
+- ⚙️ Experienced in **system design, API integrations, and performance optimization**
+- 🔌 Worked with **ERP systems, payment providers, and high-load services**
+- 🐳 Production experience with **Docker, CI/CD and distributed systems**
+- 🤖 Actively using **AI tools to accelerate development, debugging and архитектурные решения**
+
+---
+
+## 💼 What I bring
+
+- ✔️ Clean architecture & maintainable code (SOLID, DDD basics)
+- ✔️ Real-world experience with **complex integrations and legacy systems**
+- ✔️ Performance optimization (DB, caching, backend bottlenecks)
+- ✔️ Ability to quickly understand and improve existing systems
+- ✔️ Strong ownership mindset — from idea to production
+
+---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/akarabudka/)
+- 🧠 [LeetCode](https://leetcode.com/sanyakarabudka/)
+- 📊 [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka)
+- 📅 [Schedule a call](https://cal.com/alexander-karabudka)
+- 📄 [Download CV](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Developer_CV.pdf)
+- ✉️ Email: alexandedev@gmail.com
+
+---
 
 ## 🛠 Tech Stack
 
@@ -50,29 +74,35 @@
 
 ---
 
-### 🤖 AI-Driven Development
+## 🤖 AI-Driven Development
+
+Using AI as a **real engineering tool**, not just for experiments:
+
+- ⚡ Code generation & refactoring
+- 🐞 Faster debugging and root-cause analysis
+- 🧠 Architecture exploration and trade-off analysis
+- 🧪 Test generation and edge-case coverage
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-![AI Code Generation](https://img.shields.io/badge/AI%20Code%20Generation-8A2BE2?style=for-the-badge)
-![AI Debugging](https://img.shields.io/badge/AI%20Debugging-6A5ACD?style=for-the-badge)
-![AI Productivity](https://img.shields.io/badge/AI%20Productivity-9370DB?style=for-the-badge)
+---
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
-<!--- 
-![Metrics](https://metrics.lecoq.io/akrbdk?template=classic&base.community=0&base.metadata=0&isocalendar=1&languages=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=20&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=300&leetcode=false&leetcode.user=sanyakarabudka&leetcode.sections=solved%2C%20skills%2C%20recent&leetcode.limit.skills=10&leetcode.limit.recent=3&config.timezone=Europe%2FMoscow&config.display=large)
---->
- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akrbdk&theme=darcula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=1)
+
+---
 
 ## 🤝 Connect with me
 
-[![akarabudka@gmail.com](https://img.shields.io/badge/akarabudka@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akarabudka@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandedev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sanyakarabudka/)
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarabudka/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarabudka/)
