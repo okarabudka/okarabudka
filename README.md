@@ -12,7 +12,7 @@ Senior Backend Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-De
 ## 🚀 About Me
 
 - 🇩🇪 Based in Germany (Karlsruhe)  
-- 💼 Backend Developer with **7+ years of experience**  
+- 💼 Backend Developer with **8+ years of experience**  
 - 🛒 Focus on **e-commerce (Shopware 6, custom platforms)**  
 - ⚙️ Strong in **API integrations, system design, performance**  
 - 🐳 Experience with **Docker, CI/CD, distributed systems**  
