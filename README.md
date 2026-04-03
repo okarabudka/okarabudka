@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">
 </h1>
 
 <h3 align="center">
-Senior Backend Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-assisted Development
+Senior Backend Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-Development
 </h3>
 
 ---
