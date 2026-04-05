@@ -22,7 +22,7 @@ Senior Backend Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-De
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akarabudka/)
 - 📄 [CV EN](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Developer_CV.pdf)
-- 📄 [CV DE](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Developer_DE_CV.pdf)
+- 📄 [CV DE](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Entwickler_DE_CV.pdf)
 - 📅 [Schedule a call](https://cal.com/alexander-karabudka)
 - 🧠 [LeetCode](https://leetcode.com/u/akarabudka/)
 - 📊 [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka)
