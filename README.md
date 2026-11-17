@@ -21,8 +21,8 @@ Software Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-Developm
 **🔗 Links**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akarabudka/)
-- 📄 [CV EN](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Developer_CV.pdf)
-- 📄 [CV DE](https://raw.githubusercontent.com/akrbdk/akrbdk/main/Oleksandr_Karabudka_Backend_Entwickler_DE_CV.pdf)
+- 📄 [CV EN](https://raw.githubusercontent.com/okarabudka/okarabudka/main/Oleksandr_Karabudka_Backend_Developer_CV.pdf)
+- 📄 [CV DE](https://raw.githubusercontent.com/okarabudka/okarabudka/main/Oleksandr_Karabudka_Backend_Entwickler_DE_CV.pdf)
 - 📅 [Schedule a call](https://cal.com/alexander-karabudka)
 - 🧠 [LeetCode](https://leetcode.com/u/akarabudka/)
 - 📊 [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka)
@@ -69,10 +69,10 @@ Software Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-Developm
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akrbdk&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okarabudka&theme=darcula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okarabudka&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okarabudka&theme=darcula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=okarabudka&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okarabudka&theme=darcula&utcOffset=1)
