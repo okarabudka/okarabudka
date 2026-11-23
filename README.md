@@ -26,7 +26,7 @@ Software Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-Developm
 - 📅 [Schedule a call](https://cal.com/alexander-karabudka)
 - 🧠 [LeetCode](https://leetcode.com/u/akarabudka/)
 - 📊 [HackerRank](https://www.hackerrank.com/profile/sanyakarabudka)
-- ✉️ Email: alexandedev@gmail.com
+- ✉️ Email: sanyakarabudka@gmail.com
 
 ---
 
