@@ -1,16 +1,17 @@
 <h1 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Alex</a> 
+Hi there, I'm <a href="https://www.linkedin.com/in/okarabudka/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
 <h3 align="center">
-Backend Developer (PHP / Symfony / Shopware 6) | E-commerce • Integrations • AI-assisted development
+Software Developer (PHP 8 / Symfony / Shopware 6 / Pimcore) | Backend focus, full-stack with Twig &amp; Vue.js
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/akarabudka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://raw.githubusercontent.com/okarabudka/okarabudka/main/Oleksandr_Karabudka_Backend_Developer_CV.pdf"><img src="https://img.shields.io/badge/CV-EN-555555?style=flat-square&logo=readthedocs&logoColor=white" alt="CV EN"/></a>
-<a href="https://raw.githubusercontent.com/okarabudka/okarabudka/main/Oleksandr_Karabudka_Backend_Entwickler_DE_CV.pdf"><img src="https://img.shields.io/badge/CV-DE-555555?style=flat-square&logo=readthedocs&logoColor=white" alt="CV DE"/></a>
+<a href="https://www.linkedin.com/in/okarabudka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://okarabudka.github.io/"><img src="https://img.shields.io/badge/Website-okarabudka.github.io-4F46E5?style=flat-square&logo=githubpages&logoColor=white" alt="Website"/></a>
+<a href="https://okarabudka.github.io/cv/Oleksandr_Karabudka_CV_EN.pdf"><img src="https://img.shields.io/badge/CV-EN-555555?style=flat-square&logo=readthedocs&logoColor=white" alt="CV EN"/></a>
+<a href="https://okarabudka.github.io/cv/Oleksandr_Karabudka_Lebenslauf_DE.pdf"><img src="https://img.shields.io/badge/CV-DE-555555?style=flat-square&logo=readthedocs&logoColor=white" alt="CV DE"/></a>
 <a href="https://cal.com/alexander-karabudka"><img src="https://img.shields.io/badge/Schedule_a_call-292929?style=flat-square&logo=caldotcom&logoColor=white" alt="Schedule a call"/></a>
 <a href="mailto:sanyakarabudka@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/akarabudka/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -22,12 +23,14 @@ Backend Developer (PHP / Symfony / Shopware 6) | E-commerce • Integrations •
 ## 🚀 About Me
 
 - 🇩🇪 Based in Karlsruhe, Germany
-- 💼 Backend developer with **8+ years of experience**, mostly PHP
-- 🛒 Focus on **e-commerce**: Shopware 6 shops, plugins and integrations, PIM (Pimcore), custom platforms
-- ⚙️ Strong in **API integrations, system design and performance**
-- 🐳 Docker, CI/CD and Kubernetes deployments in daily work
+- 💼 Software developer with **8+ years of PHP experience**, backend focus
+- 🛒 Focus on **e-commerce**: Shopware 6 plugins, Pimcore as PIM, import/export pipelines and integrations
+- 🚀 Contributed to migrating a legacy PHP shop to **Shopware 6 through go-live** (07/2026)
+- ⚙️ Strong in **API integrations, business logic and performance** (MySQL/MariaDB, Redis, OpenSearch)
+- 🐳 Docker and GitLab CI in daily work; first experience with Kubernetes and Argo CD
 - 🧪 Code I put on GitHub comes with tests, static analysis (PHPStan at max level) and CI
-- 🤖 Using AI tools for development, debugging and architecture decisions
+- 🤖 AI-assisted development (Claude Code, Codex): end-to-end features, review of generated code
+- 🗣 Ukrainian, Russian (native) · English C1 · German B1, preparing for B2
 
 ---
 
@@ -46,6 +49,7 @@ Backend Developer (PHP / Symfony / Shopware 6) | E-commerce • Integrations •
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### ⚙️ DevOps & Infrastructure
@@ -60,6 +64,8 @@ Backend Developer (PHP / Symfony / Shopware 6) | E-commerce • Integrations •
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-F472B6?style=for-the-badge&logo=php&logoColor=white)
 ![PHPStan](https://img.shields.io/badge/PHPStan-max-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Rector](https://img.shields.io/badge/Rector-3F3F46?style=for-the-badge&logo=php&logoColor=white)
+![Deptrac](https://img.shields.io/badge/Deptrac-2E7D32?style=for-the-badge&logo=php&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### 🤖 AI-Assisted Development
