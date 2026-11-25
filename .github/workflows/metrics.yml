@@ -38,4 +38,4 @@ jobs:
           plugin_leetcode_limit_recent: 3
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_user: sanyakarabudka
+          plugin_leetcode_user: akarabudka
