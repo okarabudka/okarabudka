@@ -30,7 +30,7 @@ Software Developer (PHP 8 / Symfony / Shopware 6 / Pimcore) | Backend focus, ful
 - 🐳 Docker and GitLab CI in daily work; first experience with Kubernetes and Argo CD
 - 🧪 Code I put on GitHub comes with tests, static analysis (PHPStan at max level) and CI
 - 🤖 AI-assisted development (Claude Code, Codex): end-to-end features, review of generated code
-- 🗣 Ukrainian, Russian (native) · English C1 · German B1, preparing for B2
+- 🗣 Russian (native) · English C1 · German B1, preparing for B2
 
 ---
 
