@@ -1,34 +1,26 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: [{cron: "0 4 * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: okarabudka/metrics@master
+      - uses: lowlighter/metrics@v3.34
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          # Keep the generated image out of the main history.
+          committer_branch: metrics
+          committer_message: "chore: update metrics"
 
           # Options
           user: okarabudka
           template: classic
           base: header, activity, repositories
           config_display: large
-          config_timezone: Europe/Moscow
+          config_timezone: Europe/Berlin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes

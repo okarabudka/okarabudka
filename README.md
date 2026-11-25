@@ -69,6 +69,8 @@ Software Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-Developm
 
 ## 📊 GitHub Stats
 
+![GitHub metrics](https://raw.githubusercontent.com/okarabudka/okarabudka/metrics/github-metrics.svg)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okarabudka&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okarabudka&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
