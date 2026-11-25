@@ -1,6 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 4 * * *"}]
+  # Disabled for now; uncomment to update the image daily.
+  # schedule: [{cron: "0 4 * * *"}]
   workflow_dispatch:
 jobs:
   github-metrics:
