@@ -30,23 +30,6 @@ Software Developer (PHP / Symfony / Shopware) | Scalable Systems • AI-Developm
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it shows |
-|---|---|
-| [family-finance-manager](https://github.com/okarabudka/family-finance-manager) | Symfony 8 + PHP 8.5: Telegram bot and web dashboard for a household budget, bank statement import, demo in one `make up` |
-| [media-app](https://github.com/okarabudka/media-app) | Symfony JSON API over TMDB with caching and cookie login, Vue 3 SPA, PHPUnit and Vitest |
-| [laravel-blog](https://github.com/okarabudka/laravel-blog) | Laravel 13 with Filament admin, Livewire comments and votes, policies, privacy-friendly view counting |
-| [go-architecture](https://github.com/okarabudka/go-architecture) | One domain in Go built three ways: layered, hexagonal and CQRS with outbox, side by side on PostgreSQL |
-| [docker-source](https://github.com/okarabudka/docker-source) | PHP 8.1–8.5 base images (Apache, FPM, Alpine; dev and prod), multi-arch, smoke-tested and published to GHCR |
-
-**🔧 Refactoring case studies** — my own old code, refactored step by step with tests; each repo keeps the original
-as a tag and explains every step: [news_portal](https://github.com/okarabudka/news_portal) · [php-auth-test](https://github.com/okarabudka/php-auth-test) ·
-[calculate-vacation](https://github.com/okarabudka/calculate-vacation) · [php-mvc-framework](https://github.com/okarabudka/php-mvc-framework). Plus
-[php-refactoring](https://github.com/okarabudka/php-refactoring): ten refactoring exercises, from code smell to tested solution.
-
----
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Backend & Architecture
